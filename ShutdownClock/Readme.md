@@ -5,8 +5,8 @@ The app allows the user to set a timer for the computer to shutdown or sleep
 (sleep functionality is not available yet)
 
 ## Installation 
--If you want to use the software feel free to download the DeployedApp folder and the app is ready to go.
--If you want to improve/contribute: fork the project and make a pull request.
+- If you want to use the software feel free to download the DeployedApp folder and the app is ready to go.
+- If you want to improve/contribute: fork the project and make a pull request.
 
 ## App presentation
 
